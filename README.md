@@ -1,19 +1,19 @@
-### arthi arumugam
+### Arthi Arumugam
 
-i find numbers that are wrong while nothing raises: eval scores, agent usage, cost accounting.
+I find numbers that are wrong while nothing raises: eval scores, agent usage, cost accounting.
 
-twelve fixes merged across eight organisations, four of them in the uk ai security institute's
-inspect_evals. open to senior eval / agent-infrastructure roles, remote or bengaluru.
+Twelve fixes merged across eight organisations, four of them in the UK AI Security Institute's
+inspect_evals. Open to senior eval / agent-infrastructure roles, remote or Bengaluru.
 arthi1805@gmail.com
 
 ---
 
-**wrong-numbers** : findings across the llm eval, tracing and cost ecosystem, classified into
-thirteen recurring defect shapes. twelve fixes merged upstream after human review; four shipped
-in the uk ai security institute's inspect_evals. every finding links to a pull request, most
+**wrong-numbers** : findings across the LLM eval, tracing and cost ecosystem, classified into
+thirteen recurring defect shapes. Twelve fixes merged upstream after human review; four shipped
+in the UK AI Security Institute's inspect_evals. Every finding links to a pull request, most
 with a test that fails on main.
 https://github.com/arthi-arumugam-git/wrong-numbers
 
-**whatbroke** : diff an agent's behaviour between two runs of the same task. tool calls,
+**whatbroke** : diff an agent's behaviour between two runs of the same task. Tool calls,
 arguments, costs, outputs.
 https://github.com/arthi-arumugam-git/whatbroke
