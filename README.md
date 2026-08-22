@@ -2,14 +2,14 @@
 
 I find numbers that are wrong while nothing raises: eval scores, agent usage, cost accounting.
 
-Twelve fixes merged across eight organisations, four of them in the UK AI Security Institute's
+Fourteen fixes merged across nine organisations, five of them in the UK AI Security Institute's
 inspect_evals. Open to senior eval / agent-infrastructure roles, remote or Bengaluru.
 arthi1805@gmail.com
 
 ---
 
 **wrong-numbers** : findings across the LLM eval, tracing and cost ecosystem, classified into
-thirteen recurring defect shapes. Twelve fixes merged upstream after human review; four shipped
+thirteen recurring defect shapes. Fourteen fixes merged upstream after human review; five shipped
 in the UK AI Security Institute's inspect_evals. Every finding links to a pull request, most
 with a test that fails on main.
 https://github.com/arthi-arumugam-git/wrong-numbers
